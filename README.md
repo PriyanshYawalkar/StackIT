@@ -46,7 +46,7 @@ StackIt is a modern, full-stack Q&A web application inspired by StackOverflow. I
 ### 1. **Clone the Repo**
 
 ```bash
-git clone https://github.com/your-username/stackit.git
+git clone https://github.com/priyanshyawalkar/stackit.git
 cd stackit
 ```
 
@@ -130,8 +130,7 @@ Visit [http://localhost:3000](http://localhost:3000).
 
 ## 🙏 Credits
 
-- Built for Odoo Hackathon 2025 by [Your Name/Team].
-- Inspired by StackOverflow.
+- Built for Odoo Hackathon 2025 by Priyansh Yawalkar.
 
 ---
 
