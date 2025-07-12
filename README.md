@@ -1,6 +1,6 @@
-# StackIt – Q&A Platform (Odoo Hackathon 2025)
+# StackIt – A Minimal Q&A Forum Platform
 
-StackIt is a modern, full-stack Q&A web application inspired by StackOverflow. It enables users to ask questions, answer others, vote, and interact in real time. Built with Next.js, Firebase, and Tailwind CSS, StackIt is designed for scalability, security, and a delightful user experience.
+StackIt is a m inim al question-and-answer platform that supports collaborative learning and structured knowledge sharing. It’s designed to be sim ple, user- friendly, and focused on the core experience of asking and answering questions within a community.
 
 ---
 
