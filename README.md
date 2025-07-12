@@ -91,7 +91,7 @@ Visit [http://localhost:3000](http://localhost:3000).
 
 - **Guest:** Can browse and search questions.
 - **User:** Can ask, answer, and vote (must be logged in).
-- **Admin:** (Set in code, e.g. `admin@stackit.com`) Can view dashboard, delete users/questions/answers.
+- **Admin:** (Set in code, e.g. `admin@email`) Can view dashboard, delete users/questions/answers.
 
 ---
 
